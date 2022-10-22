@@ -192,10 +192,10 @@ img{
     margin-left: 0% !important;
   }
   .nav{
-    bottom: .2rem !important;
+    bottom: 0rem !important;
     left: 0;
     right: 0;
-    height: 9vh;
+    height: 10vh;
     display: flex;
     top: auto;
     width: 100vw;
