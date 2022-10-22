@@ -195,13 +195,14 @@ img{
     bottom: 0rem !important;
     left: 0;
     right: 0;
-    height: 10vh;
+    height: 9vh;
     display: flex;
-    top: auto;
+    top: auto !important;
     width: 100vw;
     margin: 0;
     padding: 1rem;
     border-top: 1px solid #551a8b;
+    z-index: 1;
   }
   .myicon{
     display: none;
